@@ -1,0 +1,23 @@
+{
+  "name": "learngithub",
+  "version": "1.0.0",
+  "description": "just for learning purpose",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NishantBokade/LearnGitHub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NishantBokade/LearnGitHub/issues"
+  },
+  "homepage": "https://github.com/NishantBokade/LearnGitHub#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.5.0"
+  }
+}
